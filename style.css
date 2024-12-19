@@ -1,0 +1,84 @@
+/* General Styles: */
+
+body {
+
+    margin: 0;
+
+}
+
+#wrapper-box-id {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+#wrapper-box-id {
+
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+
+#btn-wrapper-box-id {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+
+}
+
+#increment-btn-id {
+
+    color: white;
+    background-color: green;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+
+}
+
+#decrement-btn-id {
+
+    color: black;
+    background-color: red;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+
+}
+
+#reset-btn-id {
+
+    color: white;
+    background-color: grey;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+
+}
